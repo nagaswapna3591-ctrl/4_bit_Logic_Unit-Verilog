@@ -35,6 +35,10 @@ A Verilog testbench was created to verify all four operations.
 
 The design was simulated successfully and the output waveforms were analyzed using EPWave.
 
+### Simulation Waveform
+
+![4-bit Logic Unit Simulation Waveform](waveform.png.jpeg)
+
 ## 📂 Files
 
 - `logic_unit_4bit.v` — Verilog design
